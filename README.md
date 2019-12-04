@@ -5,7 +5,7 @@ Also this application is a third version of its kind.
 ### Version - 3.0
 
 ## Responsiveness
-Desktop responsive.
+Desktop responsive.    
 (Soon Mobile responsive application will be developed)
 
 # Design
@@ -13,12 +13,12 @@ Desktop responsive.
 ![Desktop Layout](https://github.com/ArvinthC3000/weatherapp-react/blob/master/src/img/Desktop.png)
 
 ## Other Version
-WeatherApp-V2 [Link](https://github.com/ArvinthC3000/WeatherApp-V2)    
-WeatherApp-V1 [Link](https://github.com/ArvinthC3000/WeatherApp)
+To open WeatherApp-V2 click this [Link](https://github.com/ArvinthC3000/WeatherApp-V2)    
+To open WeatherApp-V1 click this [Link](https://github.com/ArvinthC3000/WeatherApp)
 
 ## How to use?
 ### Use application only
-Just follow this [link](#).
+Just follow this [link](#).    
 (Note: The above link is yet to updated and until then it won't work.)
 
 ### Run in you system
@@ -33,7 +33,7 @@ For further details please go thought README_2.mf file by clicking [here](https:
 
 ## Author
 ### Arvinth C    
-[LinkedIn](https://www.linkedin.com/in/arvinth-chandrasekharan-64236a79), 
+[LinkedIn](https://www.linkedin.com/in/arvinth-chandrasekharan-64236a79),     
 email: arvinthc97@gmail.com
 
 ## References
