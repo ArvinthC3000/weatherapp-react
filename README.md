@@ -22,7 +22,14 @@ Just follow this [link](#).
 (Note: The above link is yet to updated and until then it won't work.)
 
 ### Run in you system
-To run the application on your system please go thought README_2.mf file by clicking [here](https://github.com/ArvinthC3000/weatherapp-react/blob/master/README_2.md)
+
+To run the application on your system clone it to your desktop and follow the instructions:
+* Open terminal
+* Enter into the file directory
+* Type "npm start" and then press "Enter"
+* Now give some time, the application will automatically start running in your browser
+
+For further details please go thought README_2.mf file by clicking [here](https://github.com/ArvinthC3000/weatherapp-react/blob/master/README_2.md)
 
 ## Author
 ### Arvinth C    
