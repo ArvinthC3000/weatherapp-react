@@ -19,6 +19,18 @@ WeatherApp-V1 [Link](https://github.com/ArvinthC3000/WeatherApp)
 ## How to use?
 ### Use application only
 Just follow this [link](#).
+(Note: The above link is yet to updated and until then it won't work.)
 
 ### Run in you system
 To run the application on your system please go thought README_2.mf file by clicking [here](https://github.com/ArvinthC3000/weatherapp-react/blob/master/README_2.md)
+
+## Author
+### Arvinth C    
+[LinkedIn](https://www.linkedin.com/in/arvinth-chandrasekharan-64236a79), 
+email: arvinthc97@gmail.com
+
+## References
+* [ReactJS](https://reactjs.org/docs/getting-started.html)
+* [JavaScript-ES6](https://scotch.io/tutorials/how-to-use-the-javascript-fetch-api-to-get-data) - to fetch
+* [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+* [Axios](https://www.npmjs.com/package/axios)
