@@ -13,7 +13,7 @@ Desktop responsive.
 ![Desktop Layout](https://github.com/ArvinthC3000/weatherapp-react/blob/master/src/img/Desktop.png)
 
 ## Other Version
-WeatherApp-V2 [Link](https://github.com/ArvinthC3000/WeatherApp-V2)
+WeatherApp-V2 [Link](https://github.com/ArvinthC3000/WeatherApp-V2)    
 WeatherApp-V1 [Link](https://github.com/ArvinthC3000/WeatherApp)
 
 ## How to use?
@@ -38,6 +38,7 @@ email: arvinthc97@gmail.com
 
 ## References
 * [ReactJS](https://reactjs.org/docs/getting-started.html)
-* [JavaScript-ES6](https://scotch.io/tutorials/how-to-use-the-javascript-fetch-api-to-get-data) - to fetch
+* [Open Weather](https://openweathermap.org/api) - to fetch weather data
+* [JavaScript-ES6](https://scotch.io/tutorials/how-to-use-the-javascript-fetch-api-to-get-data)
 * [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
 * [Axios](https://www.npmjs.com/package/axios)
