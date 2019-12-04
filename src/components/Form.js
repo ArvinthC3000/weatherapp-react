@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 
 const Form = props =>(
-  <form onSubmit={this.props.getWeather}>
+  <form onSubmit={props.getWeather}>
     <input type="text" name="city" placeholder="City..."/>
     {/* <input type="text"/> */}
     <button>Get weather</button>
