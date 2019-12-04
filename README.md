@@ -1,3 +1,5 @@
+### (Note: This app is yet to deploy.)
+
 # WeatherApp-V3
 
 WeatherApp is an application to find the weather detail of any (valid) location , given it the city name. The real time weather details are fetched from [Open Weather](https://openweathermap.org/api) API.    
