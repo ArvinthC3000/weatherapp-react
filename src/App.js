@@ -20,7 +20,6 @@ class App extends Component {
     const api_call = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${API_KEY}&units=metric`)
     const data = await api_call.json()
     if(city && data && !data.message){
-      console.log(data)
       this.setState({
         temperature : data.main.temp,
         city : data.name,
@@ -30,17 +29,15 @@ class App extends Component {
         errors: ""
       })
     }else if(city && data.message){
-      console.log(data)
       this.setState({
         temperature : undefined,
         city : undefined,
         country : undefined,
         humidity : undefined,
         description : undefined,
-        errors: "Please enter a valid location. May be check for correct spelling"
+        errors: "City not found. Please enter a valid location."
       })
     } else {
-      console.log(data)
       this.setState({
         temperature : undefined,
         city : undefined,
