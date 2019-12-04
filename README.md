@@ -21,4 +21,4 @@ WeatherApp-V1 [Link](https://github.com/ArvinthC3000/WeatherApp)
 Just follow this [link](#).
 
 ### Run in you system
-To run the application on your system please go thought README_2.mf file by clicking [here](./README_2)
+To run the application on your system please go thought README_2.mf file by clicking [here](https://github.com/ArvinthC3000/weatherapp-react/blob/master/README_2.md)
