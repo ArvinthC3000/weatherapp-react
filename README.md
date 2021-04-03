@@ -35,7 +35,7 @@ For further details please go thought README_2.mf file by clicking [here](https:
 
 ## Author
 ### Arvinth C    
-[LinkedIn](https://www.linkedin.com/in/arvinth-chandrasekharan-64236a79),     
+[LinkedIn](https://www.linkedin.com/in/arvinth-chandrasekaran-64236a79),     
 email: arvinthc97@gmail.com
 
 ## References
